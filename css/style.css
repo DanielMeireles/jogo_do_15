@@ -8,8 +8,8 @@
 }
 
 #tabuleiro > div {
-  height: 150px;
-  width: 150px;
+  height: 148px;
+  width: 148px;
   margin: auto;
   border: 1px solid black;
   float: left;
