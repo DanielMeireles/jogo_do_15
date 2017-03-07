@@ -96,3 +96,4 @@ function jogada(casas, casa){
     }
   }
 }
+document.getElementById("iniciar").onclick = atualiza();
