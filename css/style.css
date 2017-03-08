@@ -17,6 +17,11 @@
   position: absolute;
   font-size: 140px;
   background-color: white;
+  transition-property: left, top, background-color;
+  transition-duration: 1s, 1s, 2s;
+  transition-delay: 0.1s;
+
+  transition-timing-function: ease-in-out;
 }
 #casa-0{
 	color: brown;
